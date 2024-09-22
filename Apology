@@ -98,3 +98,5 @@ TextBox.Font = Enum.Font.SourceSans
 TextBox.FontSize = Enum.FontSize.Size28
 TextBox.Text = "Input apology"
 TextBox.TextSize = 25
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Apology-inf-18780"))()
